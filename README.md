@@ -1,3 +1,5 @@
+This is a fork of FlagWaver from kri
+
 # FlagWaver
 
 > A web app for simulating a waving flag.
